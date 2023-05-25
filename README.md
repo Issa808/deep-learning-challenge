@@ -16,3 +16,4 @@ The purpose of this analysis is to find a tool that can help the nonprofit found
 ## Summary
 After a few attempts to try and optimize the model, I couldn't achieve a target predictive accuracy higher than 75% and I was only able to get it to around 72.5%. Therefore, I wouldn't recommend this model but maybe a surprived model can achieve a better accuracy. 
 
+<img width="714" alt="Screen Shot 2023-05-24 at 8 34 28 PM" src="https://github.com/Issa808/deep-learning-challenge/assets/81265007/5f8e8ccd-616d-4e79-9ce0-aa82cd95b36f">
